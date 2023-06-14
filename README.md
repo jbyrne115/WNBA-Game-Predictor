@@ -3,7 +3,7 @@ Uses current WNBA statistics to make predictions on WNBA matchups.
 
 Using python and tools including xgboost, scikit-learn, pandas, and numpy, a model was trained to predict WNBA matchups based on the average plus-minus of the previous 10 games.
 
-The initial exploration and model training was done through Jupyter Notebook.
+The initial exploration and model training was done through Jupyter Notebook and can be found in the .ipynb file.
 
 In order to deploy a web application, I used FastAPI and Uvicorn to support hosting a local version of the app on my machine.
 
